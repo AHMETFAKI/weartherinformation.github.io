@@ -3,7 +3,7 @@
 Wearther; hava durumuna ve gardıroba göre günlük kombin önerisi sunan bir uygulamadır.
 Bu politika, hangi verilerin toplandığını, nasıl kullanıldığını ve haklarınızı açıklar.
 
-**Son güncelleme:** 2026-05-14
+**Son güncelleme:** 2026-05
 
 ---
 
@@ -54,11 +54,6 @@ Firebase ve Google gizlilik politikası: https://policies.google.com/privacy
 
 ## İletişim
 
-Gizlilik politikasıyla ilgili sorularınız için: **[DESTEK E-POSTASI EKLEYİN]**
+Gizlilik politikasıyla ilgili sorularınız için: **ahmet866rdf@gmail.com**
 
 ---
-
-> **Not:** Bu belge, Play Store yüklemesinden önce gerçek bir URL üzerinde
-> yayınlanmalıdır (GitHub Pages, Notion veya herhangi bir statik sayfa).
-> Yayın URL'sini hem Play Console'a hem de uygulamadaki gizlilik politikası
-> linkine girmeyi unutmayın.
